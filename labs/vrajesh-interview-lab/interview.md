@@ -9,14 +9,13 @@ Instructions to answer the questions:
 Questions:
 
 1. What is your full name?
-   venkata krishna rao manda
+   Krishna 
 
 
 2. When did you join Nationwide Insurance?
-   In 2003 
-   I have joined Nationwide in the year 2003.
+   2020
 
 
 3. Which BSA are you in?
-   In Requirements and Testing Organization and working for Retirements Plans BSA
+   RTS
 
